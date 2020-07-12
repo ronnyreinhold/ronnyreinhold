@@ -10,8 +10,9 @@
 
 - :round_pushpin: Natural de Blumenau.
 - 🎓 Formação em Comércio Exterior, mas troquei tudo pela TI.
-- 🚀 Tecnologias: Node.js, ReactJS e React Native, Jest, TypeScipt, Flexbox.
-- :books: Somos eternos aprendizes. No momento estudando DevOps
+- 🚀 Tecnologias: Node.js, ReactJS e React Native, Jest, Flexbox, Springboot.
+- 💻 Linguagens: Javascript, Typescript, Java, PHP.
+- :books: No momento estudando DevOps
 
 >
   "Nenhum problema pode ser resolvido a partir do mesmo nível de consciência que o criou" - Albert Einstein
